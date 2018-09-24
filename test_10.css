@@ -1,12 +1,61 @@
 .main{
 	width: 1020px;
 	height: 1000px;
+	background: pink;
+	margin: 0 auto;
 }
-/* Trung */
-/* Nam */
-/* Thanh */
-/* Thành */
-/* Thư */
-/* Đan */
-/* Tùng */
-/* Leader */
+.main4{
+	width: 100%;
+	height: 400px;
+	background: #2a2a70;
+}
+.main4 h3{
+	float: left;
+	margin: 0;
+	width: 80%;
+	height: 50px;
+	/*background: red;*/
+	text-indent: 100px;
+	text-transform: capitalize;
+	line-height: 50px;
+	color: #ed0e0e;
+}
+.main4 a.khung{
+	margin-top: 20px;
+	float: left;
+	width: 10%;
+	height: 30px;
+	background: blue;
+	text-decoration: none;
+	line-height: 30px;
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+}
+.main4 .pic{
+	margin-top: 30px;
+	float: left;
+	width: 20%;
+	height: 200px;
+	margin-left: 10%;
+}
+.pic img{
+	width: 100%;
+	height: 100%;
+}
+.pic h4{
+	display: block;
+	/*background: red;*/
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	color: #ed0e0e;
+	margin: 0;
+}
+.pic p{
+	/*width: 100%;
+	height: 100px;*/
+	margin: 0;
+	/*background: blue;*/
+	color: white;
+}
